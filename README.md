@@ -1,30 +1,46 @@
-<h1 align="center">Hi 👋 I'm .........</h1>
+<h1 align="center">Hi 👋 I'm YOUR_USERNAME</h1>
 
-<h3 align="center">Frontend + Backend Developer | Builder | Problem Solver</h3>
+<h3 align="center">Developer • Builder • Problem Solver</h3>
 
 <p align="center">
-I build fast, clean, useful software.<br>
-Focus on web apps, automation, and smart tools.
+Code, logic, curiosity.<br>
+Daily progress. Long term vision.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=.........&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
 </p>
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,git,linux,vscode" />
-
-</p>
 ---
 
-## 🚀 About Me
+## 🚀 Mission
 
-- 💻 Developer who enjoys solving hard problems
-- ⚡ Strong focus on performance and clean code
-- 🧠 Constant learner
-- 🔧 Love building tools that save time
-- 🌍 Open to collaboration and cool projects
-- ☕ Powered by coffee and curiosity
+Build useful software.  
+Solve real problems.  
+Grow through projects, collaboration, and hard work.
+
+---
+
+## 💡 Quote I Work By
+
+> "First solve the problem. Then write the code."  
+> — John Johnson
+
+> "Programs must work for people, not machines."  
+> — Harold Abelson
+
+> "Small steps each day create massive results."
+
+---
+
+## 🧠 About Me
+
+- Developer focused on clean architecture
+- Love solving complex logic problems
+- Interest in startups and business ideas
+- Open to collaboration
+- Looking for strong projects and real impact
+- Passion for building tools people use daily
 
 ---
 
@@ -35,64 +51,62 @@ Focus on web apps, automation, and smart tools.
 - CSS
 - JavaScript
 - Python
+- SQL
+- Bash
 
 ### Frontend
 - React
 - TailwindCSS
 - Bootstrap
-- Responsive Design
-- DOM Manipulation
+- Responsive UI
+- DOM engineering
 
 ### Backend
 - Node.js
 - Express
-- REST APIs
-- Authentication Systems
+- REST API design
+- Authentication systems
 
 ### Databases
 - MongoDB
 - MySQL
 - SQLite
+- PostgreSQL
 
 ### Tools
 - Git
 - GitHub
-- VS Code
 - Linux
-- Postman
+- VS Code
 - Figma
+- Postman
+- Docker
 
 ---
 
-## ⚡ What I Build
+## ⚡ Areas of Work
 
-- 🌐 Full stack web applications
-- 📊 Data dashboards
-- 🤖 Automation scripts
-- 🧠 Smart tools with Python
-- ⚙️ APIs and backend systems
-- 🎨 Clean responsive interfaces
-
----
-
-## 🧠 Current Focus
-
-- Advanced JavaScript
-- System design
-- Backend performance
-- Open source contribution
-- Building useful developer tools
+- Web applications
+- Automation tools
+- APIs
+- Data dashboards
+- Developer tools
+- SaaS ideas
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=.........&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=.........&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+
 </p>
 
 ---
@@ -100,38 +114,75 @@ Focus on web apps, automation, and smart tools.
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=.........&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight">
+
 </p>
 
 ---
 
-## 🧪 Fun Projects I Like
-
-- AI mini tools
-- Web experiments
-- Browser games
-- Productivity apps
-- Automation bots
-
----
-
-## 🎯 Goals
-
-- Build large scale apps
-- Contribute to major open source projects
-- Master backend architecture
-- Launch useful SaaS products
-
----
-
-## 🤝 Let's Connect
-
-- GitHub: https://github.com/.........
-- Portfolio: coming soon
-- Email: your-email@example.com
-
----
+## 🧑‍💻 Skills
 
 <p align="center">
-⭐ If you like my work, give a star to my repositories
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,postgres,git,linux,docker,vscode">
 </p>
+
+---
+
+## 🧪 Projects I Enjoy Building
+
+- Automation scripts
+- Web platforms
+- Data tools
+- Business tools
+- Productivity apps
+- Open source tools
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌍 Opportunities
+
+Open for:
+
+- Freelance projects
+- Startup collaboration
+- Developer roles
+- Open source work
+- Technical partnerships
+
+Goal: build useful software with strong teams.
+
+---
+
+## 📬 Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: your@email.com
+- Portfolio: coming soon
+
+---
+
+## ⭐ Final Note
+
+Consistency beats talent.
+
+Write code.  
+Ship projects.  
+Learn fast.  
+Repeat.
