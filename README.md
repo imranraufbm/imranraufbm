@@ -8,6 +8,9 @@ Focus on web apps, automation, and smart tools.
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=.........&color=blue" />
+</p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,git,linux,vscode" />
 
