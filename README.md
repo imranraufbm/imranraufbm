@@ -7,6 +7,11 @@ I build fast, clean, useful software.<br>
 Focus on web apps, automation, and smart tools.
 </p>
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,git,linux,vscode" />
+
+</p>
 ---
 
 ## 🚀 About Me
