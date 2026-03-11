@@ -167,8 +167,12 @@ Python automation scripts that remove repetitive work.
 ### 📊 Data Dashboard
 Interactive data visualization with API integration.
 
+https://imranraufbm.github.io/Portfolio2/
+
 ### 🤖 Smart Tool
 Automation and productivity tool built for daily workflows.
+
+https://imranraufbm.github.io/Portfolio2/#services
 
 ---
 
@@ -198,6 +202,7 @@ Boss@greenwebmonster.com
 
 Portfolio  
 coming soon
+https://imranraufbm.github.io/Portfolio2/#services
 
 ---
 
