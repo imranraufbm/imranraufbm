@@ -14,6 +14,36 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=imranraufbm&color=0e75b6&style=flat">
 </p>
+
+--- ---
+
+# 🚀 Mission
+
+Write clean code.  
+Build tools people use.  
+Collaborate with ambitious builders.  
+Turn ideas into working products.
+
+---
+
+# 💡 Quotes
+
+> "First solve the problem. Then write the code."
+
+> "Consistency creates mastery."
+
+> "Great software grows from small daily progress."
+
+---
+
+# 🧠 About Me
+
+• Developer focused on logic and efficiency  
+• Interest in technology, startups, and business ideas  
+• Enjoy building automation tools  
+• Love clean UI and well structured backend systems  
+• Looking for projects, partnerships, and opportunities  
+
 ---
 
 # Hacker Terminal
@@ -52,34 +82,6 @@ goal: create useful products and strong collaborations
 
 ---
 
-# 🚀 Mission
-
-Write clean code.  
-Build tools people use.  
-Collaborate with ambitious builders.  
-Turn ideas into working products.
-
----
-
-# 💡 Quotes
-
-> "First solve the problem. Then write the code."
-
-> "Consistency creates mastery."
-
-> "Great software grows from small daily progress."
-
----
-
-# 🧠 About Me
-
-• Developer focused on logic and efficiency  
-• Interest in technology, startups, and business ideas  
-• Enjoy building automation tools  
-• Love clean UI and well structured backend systems  
-• Looking for projects, partnerships, and opportunities  
-
----
 
 # ⚡ Tech Stack
 
