@@ -51,16 +51,7 @@ Turn ideas into working products.
 ```bash
 > initializing profile
 
-user: imranraufbm
-role: developer
-skills: html css javascript python
-focus: web apps automation software
-status: building projects daily
-goal: create useful technology and strong collaborations
-
 > system ready
-
-
 
 
 ---
