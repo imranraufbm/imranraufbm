@@ -1,12 +1,7 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn">
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=45&fontColor=f1f5f9&animation=fadeIn&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descSize=20&descAlignY=65">
 </p>
-
-
 
 <h1 align="center">👨‍💻 imranraufbm</h1>
 
