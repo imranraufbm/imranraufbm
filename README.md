@@ -109,6 +109,7 @@ goal: create useful products and strong collaborations
 ---
 
 # 🏆 GitHub Trophies
+(https://imranraufbm.github.io/SAIM-PORTFOLIO/)
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=imranraufbm&theme=tokyonight&row=1&column=7"> </p>>
 
@@ -154,6 +155,8 @@ Modern responsive web platform built with JavaScript and React.
 
 ### ⚙️ Automation Tool
 Python automation scripts that remove repetitive work.
+
+(https://imranraufbm.github.io/Robotic-World/)
 
 ### 📊 Data Dashboard
 Interactive data visualization with API integration.
