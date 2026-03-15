@@ -108,6 +108,27 @@ goal: create useful products and strong collaborations
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman">
 </p>
 
+### Artificial Intelligence
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,jupyter"> </p>
+
+Machine Learning and Data
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,matlab,opencv,sklearn"> </p>
+
+AI Development Tools
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github"> </p>
+
+AI Deployment and APIs
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,aws,gcp"> </p>
+
+Popular AI stack for modern projects.
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,linux,git"> </p>
+
+
 ---
 
 # 🏆 GitHub Trophies
