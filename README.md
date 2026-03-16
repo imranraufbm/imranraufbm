@@ -23,6 +23,11 @@
 |---|---|---|
 | Write clean code.<br>Build tools people use.<br>Collaborate with ambitious builders.<br>Turn ideas into working products. | "First solve the problem. Then write the code."<br><br>"Consistency creates mastery."<br><br>"Great software grows from small daily progress." | • Developer focused on logic and efficiency<br>• Interest in technology, startups, and business ideas<br>• Enjoy building automation tools<br>• Love clean UI and well structured backend systems<br>• Looking for projects, partnerships, and opportunities |
 ---
+# 🏆 GitHub Trophies
+(https://imranraufbm.github.io/SAIM-PORTFOLIO/)
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=imranraufbm&theme=tokyonight&row=1&column=7"> </p>
+---
 ### GitHub Stats
 
 <p align="center">
@@ -166,20 +171,12 @@ Popular AI stack for modern projects.
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,linux,git"> </p>
 
-
----
-
-# 🏆 GitHub Trophies
-(https://imranraufbm.github.io/SAIM-PORTFOLIO/)
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=imranraufbm&theme=tokyonight&row=1&column=7"> </p>>
-
 ---
 
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=imranraufbm&theme=tokyonight">
 </p>
 
 (https://imranraufbm.github.io/Snake-game/)
@@ -228,26 +225,9 @@ Focus: building useful products and scalable systems.
 
 ---
 
-Contact
-
-GitHub
-https://github.com/imranraufbm
-
-Email
-Boss@greenwebmonster.com
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"> </p> ```
-
 Portfolio  
 coming soon
 https://imranraufbm.github.io/Portfolio2/#services
 
 ---
-
-# ⚡ Developer Philosophy
-
-Write code.  
-Ship projects.  
-Improve daily.  
-Build useful things.
 
