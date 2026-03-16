@@ -40,36 +40,50 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranraufbm&layout=compact&theme=tokyonight">
 </p>
 
+<table align="center">
+<tr>
+<td align="center">
 
-### Connect With Me
+### ⚡ Developer Philosophy
 
-<p align="center">
+<img src="https://img.shields.io/badge/Write%20Code-blue?style=for-the-badge&logo=code&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Ship%20Projects-green?style=for-the-badge&logo=github&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Improve%20Daily-yellow?style=for-the-badge&logo=zap&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Build%20Useful%20Things-red?style=for-the-badge&logo=producthunt&logoColor=white">
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter">
-</a>
+</td>
+<td align="center">
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin">
-</a>
+### 📬 Contact
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-imranraufbm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imranraufbm) <br>
+[![Email](https://img.shields.io/badge/Email-Boss@greenwebmonster.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Boss@greenwebmonster.com)
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram">
-</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=gmail">
-</a>
+### 🌐 Connect With Me
 
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-### Profile Views
+### 👁 Profile Views
 
+<img src="https://komarev.com/ghpvc/?username=imranraufbm&color=blueviolet&style=for-the-badge">
+
+</td>
+</tr>
+</table>
 ---
 
 # Hacker Terminal
@@ -159,18 +173,6 @@ Popular AI stack for modern projects.
 (https://imranraufbm.github.io/SAIM-PORTFOLIO/)
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=imranraufbm&theme=tokyonight&row=1&column=7"> </p>>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
