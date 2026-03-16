@@ -23,8 +23,7 @@
 | Write clean code.<br>Build tools people use.<br>Collaborate with ambitious builders.<br>Turn ideas into working products. | "First solve the problem. Then write the code."<br><br>"Consistency creates mastery."<br><br>"Great software grows from small daily progress." | • Developer focused on logic and efficiency<br>• Interest in technology, startups, and business ideas<br>• Enjoy building automation tools<br>• Love clean UI and well structured backend systems<br>• Looking for projects, partnerships, and opportunities |
 ---
 # 🏆 GitHub Trophies
-(https://imranraufbm.github.io/SAIM-PORTFOLIO/)
-
+---
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=imranraufbm&theme=tokyonight&row=1&column=7"> </p>
 ---
 ### GitHub Stats
@@ -36,7 +35,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranraufbm&theme=tokyonight">
 
 </p>
-
+---
 
 ### Most Used Languages
 
@@ -190,7 +189,7 @@ Popular AI stack for modern projects.
 ---
 
 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/imranraufbm/output/github-contribution-grid-snake.svg"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/imranraufbm/imranraufbm/output/github-contribution-grid-snake.svg"> </p>
 
 ---
 
@@ -227,6 +226,6 @@ Focus: building useful products and scalable systems.
 Portfolio  
 coming soon
 https://imranraufbm.github.io/Portfolio2/#services
-
+(https://imranraufbm.github.io/SAIM-PORTFOLIO/)
 ---
 
