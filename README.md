@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=45&fontColor=f1f5f9&animation=fadeIn&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descSize=20&descAlignY=65">
 </p>
@@ -17,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=imranraufbm&color=0e75b6&style=flat">
 </p>
 
---- ---
+---
 
 | 🚀 Mission | 💡 Quotes | 🧠 About Me |
 |---|---|---|
