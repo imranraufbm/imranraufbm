@@ -19,32 +19,56 @@
 
 --- ---
 
-# 🚀 Mission
-
-Write clean code.  
-Build tools people use.  
-Collaborate with ambitious builders.  
-Turn ideas into working products.
-
+| 🚀 Mission | 💡 Quotes | 🧠 About Me |
+|---|---|---|
+| Write clean code.<br>Build tools people use.<br>Collaborate with ambitious builders.<br>Turn ideas into working products. | "First solve the problem. Then write the code."<br><br>"Consistency creates mastery."<br><br>"Great software grows from small daily progress." | • Developer focused on logic and efficiency<br>• Interest in technology, startups, and business ideas<br>• Enjoy building automation tools<br>• Love clean UI and well structured backend systems<br>• Looking for projects, partnerships, and opportunities |
 ---
+### GitHub Stats
 
-# 💡 Quotes
+<p align="center">
 
-> "First solve the problem. Then write the code."
+<img src="https://github-readme-stats.vercel.app/api?username=imranraufbm&show_icons=true&theme=tokyonight">
 
-> "Consistency creates mastery."
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imranraufbm&theme=tokyonight">
 
-> "Great software grows from small daily progress."
+</p>
 
----
 
-# 🧠 About Me
+### Most Used Languages
 
-• Developer focused on logic and efficiency  
-• Interest in technology, startups, and business ideas  
-• Enjoy building automation tools  
-• Love clean UI and well structured backend systems  
-• Looking for projects, partnerships, and opportunities  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranraufbm&layout=compact&theme=tokyonight">
+</p>
+
+
+### Connect With Me
+
+<p align="center">
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=twitter">
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=discord">
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=instagram">
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail">
+</a>
+
+</p>
+
+
+### Profile Views
 
 ---
 
