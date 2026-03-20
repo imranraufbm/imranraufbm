@@ -67,7 +67,7 @@
 <tr>
 <td colspan="2" align="center">
 
-### 🌐 Connect With Me
+### 🌐 Follow
 
 <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
